@@ -35,7 +35,7 @@ Cada plugin debe seguir una estructura específica para integrarse correctamente
 2. **Agregar las Funciones Requeridas**:
    - **`initPlugin(Mediator)`**: Conecta el plugin con el `Mediator`.
    - **`handleEvent(event, data)`**: Maneja eventos específicos según la lógica del plugin.
-3. **Implementar la Lógica del Plugin**: Implementa la lógica necesaria para el evento en cuestión. Puedes suscribirte a eventos como `'saludar'`, `'cambiarIdioma'`, o definir eventos nuevos.
+3. **Implementar la Lógica del Plugin**: Implementa la lógica necesaria para el evento en cuestión o definir eventos nuevos.
 
 ### 3.3. Cargar el Plugin en la Aplicación
 
@@ -85,6 +85,4 @@ Las pruebas unitarias se encuentran en el directorio `__tests__/unit`. Se prueba
 Las pruebas de integración se ubican en el directorio `__tests__/integracion`. Estas pruebas se aseguran de que el `PluginSystem` interactúe correctamente con los plugins y que el `Mediator` gestione adecuadamente los eventos entre la aplicación y los plugins.
 
 **Ejecución de pruebas** con:
-
-```bash
 npx jest
