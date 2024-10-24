@@ -61,7 +61,6 @@ Para cargar un plugin en la aplicación, sigue los siguientes pasos:
     - `pluginName` - El nombre del plugin.
     - `event` - El nombre del evento a ejecutar.
     - `data` - Los datos que se pasarán al evento.
-  - **Retorno**: Ninguno.
 
 ### 4.2. Eventos Usados en los Plugins
 
