@@ -1,5 +1,5 @@
 let contador = 0;
-let idioma = 'es'; // Idioma por defecto es español
+let idioma = 'es';
 let usuario = '';
 
 // Inicializa el plugin y se suscribe a eventos
