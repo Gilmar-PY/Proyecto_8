@@ -18,8 +18,12 @@ Este proyecto consiste en desarrollar un sistema de plugins que permita añadir 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhFmXatA8yt695ojG4yVkSTlmkx_je-1YogamBB6cK8oX4FCPLzovrdYY7wPPW6gTOtQlz60FYZf_PFqrz2lsFlA0zKjmLtpmOY95UvCWCbTwl2Kzvp01AgiHN1qTDZGpOtr4cVd9zjKSWtgpNcZgbTQbd?key=a-9MstdKlZ5cWvVkGRr6lQ)
 
 ##### Beneficios
+
+
 1.-Modularidad: Los plugins se pueden agregar, modificar o eliminar sin afectar la aplicación.
-2.-Flexibilidad: Permite a los desarrolladores ampliar las funcionalidades de la aplicación sin cambiar su estructura central.
+
+2.-Flexibilidad: Permite ampliar las funcionalidades de la aplicación sin cambiar su estructura central.
+
 3.-: El sistema puede crecer al agregar más plugins sin comprometer el rendimiento.
 
 #####  Diseño e Implementación
